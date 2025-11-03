@@ -1,0 +1,2 @@
+# customer_shopping_behaviour_analysis_project
+EDA prjoject
